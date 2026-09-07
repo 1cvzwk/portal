@@ -672,7 +672,8 @@
   - [Ultra-Terrestrials](/assets/docs/knowledges/theories/UltraTerrestrials/readme.md)
   - [ChaosLess-Vacuum](/assets/docs/knowledges/theories/LessChaosVacuum/readme.md)
   - [Mirror Singularity - Multiverses,Big Bounces](/assets/docs/knowledges/theories/MirrorSingularity/readme.md)
-  - [Gravifluids](/assets/docs/knowledges/theories/Gravifluid/readme.md)  
+  - [Gravifluids](/assets/docs/knowledges/theories/Gravifluid/readme.md)
+  - [Destined Entropy](/assets/docs/knowledges/theories/destined-entropy/readme.md)
 
   - My Stuff Of Thought's:
     - [Non-Quantum States as "Eternal" Information Storage](/assets/docs/knowledges/theories/my-Stuff/non-quantum-as-storage/readme.md)     
