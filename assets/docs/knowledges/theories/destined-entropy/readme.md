@@ -1,3 +1,4 @@
+[HOME](/README.md)
 # ✨📜 Destined Entropy      
       
 - The World is the shared environment in that multiples brains "Organical Biological Quantum Computers"     
